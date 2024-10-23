@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rverlicel.github.io/rverlicel.rverlicel
+Sitemap: https://rverlicel.github.io/app/rverlicel.rverlicel
+Sitemap: https://rverlicel.github.io/assets/rverlicel.rverlicel
+Sitemap: https://rverlicel.github.io/css/rverlicel.rverlicel
+Sitemap: https://rverlicel.github.io/includes/rverlicel.rverlicel
+Sitemap: https://rverlicel.github.io/item/rverlicel.rverlicel
+Sitemap: https://rverlicel.github.io/src/rverlicel.rverlicel
